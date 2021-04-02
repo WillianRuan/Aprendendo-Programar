@@ -1,2 +1,2 @@
 # Aprendendo-Programar
- está tudo o que eu estou estudando e que eu já estudei 
+ Tudo que estou estudando, e que já estudei...
